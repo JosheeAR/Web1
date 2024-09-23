@@ -1,0 +1,10 @@
+section{
+    padding: 2em;
+    background-color: yellow;
+    color: red;
+}
+
+.letra{
+    font-family: Algerian ;
+    text-align: center;
+}
